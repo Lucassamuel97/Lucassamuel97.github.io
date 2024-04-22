@@ -582,6 +582,7 @@ section {
 # skills
 --------------------------------------------------------------*/
 .skills{
+  width: 100%;
   background-color: #0B1018;
   color: #FFFFFF;
 }
@@ -1064,6 +1065,7 @@ section {
 .project {
   padding-bottom: 80px;
   color: black;
+  width: 100%vh;
 }
 
 .project h2{
